@@ -1,0 +1,14 @@
+---
+debug: True
+
+database:
+  user: shortener
+  password: shortener
+  host: localhost
+  port: 5432
+  name: shortener_test
+
+short_url:
+  base: http://localhost:5000
+
+secret_key: shortener

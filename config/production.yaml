@@ -1,0 +1,7 @@
+---
+debug: False
+
+short_url:
+  base: http://localhost:5000  # update use a short domain - ex. short.com
+
+secret_key: adubgurtur76YBYUBHjNBUHBhbhtytuherbhjjknuhgyBUYVRTTYhb
